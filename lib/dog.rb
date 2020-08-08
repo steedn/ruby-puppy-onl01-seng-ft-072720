@@ -9,7 +9,7 @@ class Dog
     @@all << self
   end
 
-  def self.class_variable_set
+  def self.all
     @@all
   end
 end
