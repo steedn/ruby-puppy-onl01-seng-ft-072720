@@ -12,3 +12,4 @@ class Dog
   def self.class_variable_set
     @@all
   end
+end
